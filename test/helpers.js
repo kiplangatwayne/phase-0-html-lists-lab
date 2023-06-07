@@ -8,3 +8,10 @@ const html = fs.readFileSync(
 );
 
 globalJsdom(html);
+// SWAP THE VALUES OF TWO VARIABLES USING 
+// a. Temporary variable 
+// b. Without a temporary variable 
+let x = 7
+let y = 9
+
+// output x = 7 , y = 9
